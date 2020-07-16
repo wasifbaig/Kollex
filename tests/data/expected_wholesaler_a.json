@@ -1,0 +1,46 @@
+[
+  {
+    "id": "12345600001",
+    "gtin": "23880602029774",
+    "manufacturer": "Drinks Corp.",
+    "name": "Soda Drink, 12 * 1,0l",
+    "packaging": "case 12",
+    "baseProductPackaging": "bottle",
+    "baseProductUnit": null,
+    "baseProductAmount": 1,
+    "baseProductQuantity": 123
+  },
+  {
+    "id": "12345600002",
+    "gtin": "23880602029781",
+    "manufacturer": "Drinks Corp.",
+    "name": "Orange Drink, 20 * 0,5l",
+    "packaging": "case 20",
+    "baseProductPackaging": "bottle",
+    "baseProductUnit": null,
+    "baseProductAmount": 0.5,
+    "baseProductQuantity": 234
+  },
+  {
+    "id": "12345600003",
+    "gtin": "23880602029798",
+    "manufacturer": "Drinks Corp.",
+    "name": "Beer, 6 * 0,5l",
+    "packaging": "box 6",
+    "baseProductPackaging": "can",
+    "baseProductUnit": null,
+    "baseProductAmount": 0.5,
+    "baseProductQuantity": 345
+  },
+  {
+    "id": "12345600004",
+    "gtin": "23880602029767",
+    "manufacturer": "Drinks Corp.",
+    "name": "Champagne, 1 * 0,75l",
+    "packaging": "single",
+    "baseProductPackaging": "bottle",
+    "baseProductUnit": null,
+    "baseProductAmount": 0.75,
+    "baseProductQuantity": 456
+  }
+]
