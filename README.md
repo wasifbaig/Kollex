@@ -3,16 +3,16 @@ Steps to run project
 
 1. Goto project directory
 
-2. Download project dependencies 
+2. Download project dependencies <br> 
 composer install
 
-3. Run Apache Server 
+3. Run Apache Server <br> 
  php bin/console server:run
  
-4. Call url 
+4. Call url <br>
 http://localhost:8000/products  
 
-5. Call Test cases 
+5. Call Test cases <br>
 php bin/phpunit
  
  
